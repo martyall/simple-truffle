@@ -1,6 +1,6 @@
 pragma solidity ^0.4.4;
 
-import "./Owned.sol";
+import "./Permissions/Owned.sol";
 
 contract SimpleStorage is Owned {
 
